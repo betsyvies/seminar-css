@@ -79,3 +79,9 @@ button {
 span, .box-header ul li:hover {
     color: #f9a91a;
 }
+ footer{
+     margin:20px 0;
+     text-align: center;
+     color: white;
+     padding: 10px 0;
+ }
